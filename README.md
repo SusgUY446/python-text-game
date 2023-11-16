@@ -2,3 +2,6 @@
 
 a text based game written in python that only uses built-in libaries
 
+# contributing
+see contributing.md
+
